@@ -17,6 +17,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "very-test-rg" {
-  name     = "my-rf-rg1111"
+  name     = "my-rf-rg111qq1"
   location = "West Europe"
 }
